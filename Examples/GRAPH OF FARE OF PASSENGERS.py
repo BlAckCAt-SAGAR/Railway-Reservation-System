@@ -1,0 +1,6 @@
+df_CSV1 = pd.read_csv("D:\c\csv1.csv")
+        plt.figure(figsize=(9, 6))
+        plt.bar(x=df_CSV1['name'], height=df_CSV1['fare'], color='red')
+        plt.title('Fare of passengers')
+        plt.savefig('Fare of passengers.png.')
+        plt.show()
