@@ -1,0 +1,6 @@
+# Keep sample CSVs but ignore live data that accumulates real user data
+data/user_credentials.csv
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store

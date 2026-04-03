@@ -1,0 +1,16 @@
+sno,train_no,train_name,start,end
+1,12051,Shatabdi Express,Mumbai,Pune
+2,12301,Howrah Rajdhani,Kolkata,New Delhi
+3,12009,Mumbai Shatabdi,Mumbai Central,Ahmedabad
+4,12627,Karnataka Express,Bangalore,New Delhi
+5,11301,Udyan Express,Mumbai,Bangalore
+6,12025,Pune Shatabdi,Pune,Mumbai
+7,12721,Dakshin Express,Hyderabad,New Delhi
+8,12839,Howrah Mail,Chennai,Kolkata
+9,12431,Rajdhani Express,Hazrat Nizamuddin,Thiruvananthapuram
+10,22691,Rajdhani Express,Bangalore,New Delhi
+11,12223,Duronto Express,Mumbai,Kolkata
+12,19031,Gujarat Mail,Mumbai,Ahmedabad
+13,12123,Deccan Queen,Pune,Mumbai
+14,16534,Nagarcoil Express,Bangalore,Nagarcoil
+15,22109,Mumbai LTT Rajdhani,Mumbai,Hazrat Nizamuddin
